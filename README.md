@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 À propos de moi
 
-<!--
-**ValentinBAR-Dev/ValentinBAR-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné par le développement et les technologies de l’information, je suis actuellement à la recherche d’une nouvelle opportunité professionnelle. Mon alternance chez Safran Aircraft Engines et ma formation à l’UTBM (Université de Technologie de Belfort-Montbéliard) m'a offert l’opportunité d’apprendre, de me perfectionner et d’évoluer dans un domaine qui me passionne.
 
-Here are some ideas to get you started:
+Persévérant, motivé et sérieux, j'ai envie d’apprendre et de découvrir de nouvelles technologies et de nouveaux horizons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies
+- Langages : Python, Java, C++, C#, JavaScript, PHP
+- Frameworks & bibliothèques : Angular, Laravel, Spring Boot
+- Web : HTML, CSS, jQuery
+- Back-end : Node-RED, SQL
+- Bases de données : MongoDB, MySQL
+
+### 🚀 Projets
+- 🔗 Freelyform — Application qui permet de créer et de remplir des formulaires à la manière de Google Form.
+
+### 📫 Me contacter
+- LinkedIn : [https://www.linkedin.com/in/valentin-bar-962b0b21b/](https://www.linkedin.com/in/valentin-bar-962b0b21b/)
+- Email : valentin.bar@sfr.fr
