@@ -5,11 +5,11 @@ Passionné par le développement et les technologies de l’information, je suis
 Persévérant, motivé et sérieux, j'ai envie d’apprendre et de découvrir de nouvelles technologies et de nouveaux horizons.
 
 ### 🔧 Technologies
-- Langages : Python, Java, C++, C#, JavaScript, PHP
-- Frameworks & bibliothèques : Angular, Laravel, Spring Boot
-- Web : HTML, CSS, jQuery
-- Back-end : Node-RED, SQL
-- Bases de données : MongoDB, MySQL
+- **Langages :** Python, Java, C++, C#, JavaScript, PHP
+- **Frameworks & bibliothèques :** Angular, Laravel, Spring Boot
+- **Web :** HTML, CSS, jQuery
+- **Back-end :** Node-RED, SQL
+- **Bases de données :** MongoDB, MySQL
 
 ### 🚀 Projets
 - 🔗 Freelyform — Application qui permet de créer et de remplir des formulaires à la manière de Google Form.
